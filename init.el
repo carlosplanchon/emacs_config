@@ -38,6 +38,7 @@
 ;; --------------------------------------
 
 ;; (elpy-use-ipython)
+
 (elpy-enable)
 
 (setq python-shell-interpreter "python3"
